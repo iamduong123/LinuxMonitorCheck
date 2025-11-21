@@ -92,3 +92,6 @@ Through this project, I became more comfortable parsing system information (`top
    ```bash
    git clone https://github.com/your-username/linux-system-monitor.git
    cd linux-system-monitor
+2. Run the script:
+   ```bash
+   ./system_monitor.sh
